@@ -5,7 +5,7 @@ import java.util.Arrays;
 /**
  * Created by Administrator on 2020/3/9.
  */
-public class wordBreakSolution {
+public class WordBreakSolution {
 
     /**
      * 断词识别句子.
